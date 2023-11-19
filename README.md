@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Siddharto</h1>
-<h3 align="center">A passionate frontend developer and knack for backend too</h3>
+<h3 align="center">A web developer and knack for Data Scienceo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddho&label=Profile%20views&color=0e75b6&style=flat" alt="siddho" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddho" alt="siddho" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Frameworks**
+- 🌱 I’m currently learning **React-Hooks**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 💬 Ask me about **React,Js,and ML Models and Optimisations**
+- 💬 Ask me about **ReactJs**
 
 - 📫 How to reach me **sidsurch@gmail.com**
 
